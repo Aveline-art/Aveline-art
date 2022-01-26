@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on creating an accessible component library for CivicTechJobs that fits the project's needs.
+- 🌱 I’m currently learning use cases for different CSS units.
+- 👯 I’m looking to collaborate on open-source projects with a dedicated and professional team.
+- 🤔 I’m looking for help with setting up a React testing library and super-linter
+- 💬 Ask me about the great food I will make for my next meal prep, and my last D&D session.
+- 📫 How to reach me: Coming soon!
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I love giving free hugs. If you ever see me, please just ask! I respond very positively to consent and check-ins.
