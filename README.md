@@ -45,7 +45,7 @@ A GitHub action that performs GitHub issue management based on a single configur
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aveline-art/" target="blank">
-    <img src="assets/LI-In-Bug.png" title="LinkedIn" alt="LinkedIn" height="40" />
+    <img src="assets/linkedin-logo.png" title="LinkedIn" alt="LinkedIn" height="40" />
   </a>
  </p>
 
@@ -54,8 +54,10 @@ A GitHub action that performs GitHub issue management based on a single configur
 <p align="left">
     <a href="http://www.w3.org/html/logo/"><img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" height="40" alt="HTML5 Powered" title="HTML5 Powered"></a>
     <a href="#"><img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" title="CSS 3" alt="CSS 3" height="40"/></a>
-    <a href="#"><img src="assets/seal-color-aef0354c.png" title="Sass" alt="Sass" height="40"/></a>
+    <a href="https://sass-lang.com/styleguide/brand"><img src="assets/sass-logo.png" title="Sass" alt="Sass" height="40"/></a>
     <a href="#"><img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" title="JavaScript" alt="JavaScript" height="40"/></a>
-    <a href="#"><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" title="Node.js" alt="Node.js" height="40"/></a>
-    <a href="#"><img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" title="React" alt="React" height="40"/></a>
+    <a href="https://github.com/facebook/react"><img src="assets/react-logo.svg" title="ReactJS" alt="ReactJS" height="40"/></a>
+    <a href="https://www.python.org/community/logos/"><img src="assets/python-logo.png" title="Python" alt="Python" height="40"/></a>
+    <a href="https://www.djangoproject.com/community/logos/"><img src="assets/django-logo.png" title="Django" alt="Django" height="40"/></a>
+    <a href="https://www.docker.com/company/newsroom/media-resources"><img src="assets/docker-logo.png" title="Docker" alt="Docker" height="40"/></a>
 </p>
