@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, world!
+# Hello, world! 👋
 
 My name is Ava, and I am a hands-on developer with React, Django and Docker experience. A self-starter and problem solver, I excel at picking up new technologies and systems to meet project requirements and improve existing systems.
 
