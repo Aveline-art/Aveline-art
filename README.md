@@ -54,7 +54,7 @@ A GitHub action that performs GitHub issue management based on a single configur
 <p align="left">
     <a href="http://www.w3.org/html/logo/"><img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" height="40" alt="HTML5 Powered" title="HTML5 Powered"></a>
     <a href="#"><img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" title="CSS 3" alt="CSS 3" height="40"/></a>
-    <a href="#"><img src="assets/Sass Logo - Seal (Color).eps" title=".NET Core" alt=".NET Core" height="40"/></a>
+    <a href="#"><img src="assets/Sass Logo - Seal (Color).eps" title="Sass" alt="Sass" height="40"/></a>
     <a href="#"><img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" title="JavaScript" alt="JavaScript" height="40"/></a>
     <a href="#"><img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" title="Node.js" alt="Node.js" height="40"/></a>
     <a href="#"><img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" title="React" alt="React" height="40"/></a>
