@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello, world! 👋
 
-My name is Ava, and I am a hands-on developer with React, Django and Docker experience. A self-starter and problem solver, I excel at picking up new technologies and systems to meet project requirements and improve existing systems.
+My name is Ava, and I am a software developer with React, Django and Docker experience. A self-starter and problem solver, I excel at picking up new technologies and systems to meet project requirements and improve existing systems.
 
 As Technical Lead, my philosophy is to deliver a product as efficiently and correctly as possible. Thus, I value tools, strategies, and procedures that increase development velocity, remove roadblocks in workflow pipelines, and effective communication with multidisciplinary software teams.
 
