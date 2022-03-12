@@ -29,26 +29,53 @@ Outside of software development work, I enjoy talking about the art of coding. T
 
 A content management system that uses a research-based filtering system to optimally match volunteer opportunity seekers to projects. Made with a team of skilled developers, project managers, UI designers, and UX researchers, this project is the crystallization of months of research and development. I have had the luxury of being the Technical Lead involved with developing its technical stack and architectural design.
 
+_Stack_
+- [Django](https://www.djangoproject.com/)
+- [Django Rest Framework](https://www.django-rest-framework.org/)
+- [React](https://reactjs.org/)
+- [Webpack](https://webpack.js.org/)
+- [Babel](https://babeljs.io/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Docker](https://www.docker.com/)
+- [GitHub Actions](https://github.com/features/actions)
+
+
 **CivicTechJobs-Documentation** [Site](https://aveline-art.github.io/CivicTechJobs-Documentation/) | [Repo](https://github.com/Aveline-art/CivicTechJobs-Documentation)
 
 The sister project to CivicTechJobs, CivicTechJobs-Documentation is a static website that organizes documentation in the [CivicTechJobs wiki](https://github.com/hackforla/CivicTechJobs/wiki). Unaffiliated with CivicTechJobs, this website started an exploration of MKDoc's features and suitability as a documentation tool and alternative to GitHub's wiki.
+
+_Stack_
+- MkDocs
+- [Docker](https://www.docker.com/)
+- Markdown
 
 **penrose-sweets** [Repo](https://github.com/Aveline-art/penrose-sweets)
 
 A command line tool that leverages url-based libraries to build weekly grocery lists for busy developers! The program intelligently parses ingredient lists from popular food blogs and compiles them into a single grocery list. It also leverages a JSON file to cache previously parsed recipes (memoization). My final project for Harvard's CS50x, penrose-sweets explored ways of leveraging Python's object-oriented design to simplify and organize complex code.
 
+_Stack_
+- Python
+- BeautifulSoup4
+
+
 **GHA-add-issue-to-project** [Repo](https://github.com/100Automations/GHA-add-issue-to-project)
 
 A GitHub action that performs GitHub issue management based on a single configuration file. Made for non-technical project managers, the automation uses a custom language interpreter to parse high-level syntax based on the Python language. The goal of this project is to simplify the Kanban board organization, freeing time and energy for project managers to focus on project strategizing and organization.
+
+_Stack_
+- GitHub Actions
+- Javascript
+
 
 **freelance-giggles** [Repo](https://github.com/Aveline-art/freelance-giggles)
 
 Inspired by Jira Align, freelance-giggles is an issue consolidation tool that allows internal organization developers to work on issues for other teams under a freelance capacity. I completed the MVP over two days as a way to practice using Typescript and the Jest testing library. This project is made with the hopes of increasing collaboration between teams and directing developer to teams that needs the most help. 
 
-*Stack*
+_Stack_
 - GitHub Actions
 - Typescript
 - Jest
+
 
 ## Get in Touch
 
