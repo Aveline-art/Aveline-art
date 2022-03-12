@@ -41,6 +41,10 @@ A command line tool that leverages url-based libraries to build weekly grocery l
 
 A GitHub action that performs GitHub issue management based on a single configuration file. Made for non-technical project managers, the automation uses a custom language interpreter to parse high-level syntax based on the Python language. The goal of this project is to simplify the Kanban board organization, freeing time and energy for project managers to focus on project strategizing and organization.
 
+**freelance-giggles** [Repo](https://github.com/Aveline-art/freelance-giggles)
+
+Inspired by Jira Align, freelance-giggles is an issue consolidation tool that allows internal organization developers to work on issues for other teams under a freelance capacity. It works by compiling issues with specific labels from a list of repositories and arranges them into a single .md file. When internal developers view this list, they can search for issues they would like to work on from another team. This helps developers explore other projects and have greater control over their career. Currently it works exclusively with HackForLA's labeling system, but future iterations will add customization so others may use this as well.
+
 ## Get in Touch
 
 <p align="left">
