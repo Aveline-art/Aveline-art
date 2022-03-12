@@ -43,7 +43,12 @@ A GitHub action that performs GitHub issue management based on a single configur
 
 **freelance-giggles** [Repo](https://github.com/Aveline-art/freelance-giggles)
 
-Inspired by Jira Align, freelance-giggles is an issue consolidation tool that allows internal organization developers to work on issues for other teams under a freelance capacity. It works by compiling issues with specific labels from a list of repositories and arranges them into a single .md file. When internal developers view this list, they can search for issues they would like to work on from another team. This helps developers explore other projects and have greater control over their career. Currently it works exclusively with HackForLA's labeling system, but future iterations will add customization so others may use this as well.
+Inspired by Jira Align, freelance-giggles is an issue consolidation tool that allows internal organization developers to work on issues for other teams under a freelance capacity. I completed the MVP over two days as a way to practice using Typescript and the Jest testing library. This project is made with the hopes of increasing collaboration between teams and directing developer to teams that needs the most help. 
+
+*Stack*
+- GitHub Actions
+- Typescript
+- Jest
 
 ## Get in Touch
 
