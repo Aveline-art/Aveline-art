@@ -56,7 +56,7 @@ _Stack_: [GitHub Actions](https://github.com/features/actions) | [Javascript](ht
 
 Inspired by Jira Align, freelance-giggles is an issue consolidation tool that allows internal organization developers to work on issues for other teams under a freelance capacity. I completed the MVP over two days as a way to practice using Typescript and the Jest testing library. This project is made with the hopes of increasing collaboration between teams and directing developer to teams that needs the most help. 
 
-_Stack_: [GitHub Actions](https://github.com/features/actions) | [Typescript](https://www.typescriptlang.org/) | [Jest](https://jestjs.io/)
+_Stack_: [GitHub Actions](https://github.com/features/actions) | [Typescript](https://www.typescriptlang.org/) | [GraphQL](https://graphql.org/) | [Jest](https://jestjs.io/)
 
 
 ## Get in Touch
