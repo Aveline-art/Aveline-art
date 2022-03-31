@@ -32,9 +32,9 @@ A content management system that uses a research-based filtering system to optim
 _Stack_: [Django](https://www.djangoproject.com/) | [Django Rest Framework](https://www.django-rest-framework.org/) | [React](https://reactjs.org/) | [Webpack](https://webpack.js.org/) | [Babel](https://babeljs.io/) | [PostgreSQL](https://www.postgresql.org/) | [Docker](https://www.docker.com/) | [GitHub Actions](https://github.com/features/actions)
 
 
-**CivicTechJobs-Documentation** [Site](https://aveline-art.github.io/CivicTechJobs-Documentation/) | [Repo](https://github.com/Aveline-art/CivicTechJobs-Documentation)
+**CivicTechJobs-Documentation** [Site](https://hackforla.github.io/CivicTechJobs-Documentation/) | [Repo](https://github.com/hackforla/CivicTechJobs-Documentation)
 
-The sister project to CivicTechJobs, CivicTechJobs-Documentation is a static website that organizes documentation in the [CivicTechJobs wiki](https://github.com/hackforla/CivicTechJobs/wiki). Unaffiliated with CivicTechJobs, this website started an exploration of MKDoc's features and suitability as a documentation tool and alternative to GitHub's wiki.
+The sister project to CivicTechJobs, CivicTechJobs-Documentation is a static website that organizes documentation in the [CivicTechJobs wiki](https://github.com/hackforla/CivicTechJobs/wiki). This website started an exploration of MKDoc's features and suitability as a documentation tool and alternative to GitHub's wiki. Once it's benefits became apparent, it became the official documentation tool for CivicTechJobs.
 
 _Stack_: [MkDocs](https://www.mkdocs.org/) | [Docker](https://www.docker.com/) | [Markdown](https://daringfireball.net/projects/markdown/)
 
