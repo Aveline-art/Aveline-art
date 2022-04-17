@@ -38,6 +38,13 @@ The sister project to CivicTechJobs, CivicTechJobs-Documentation is a static web
 
 _Stack_: [MkDocs](https://www.mkdocs.org/) | [Docker](https://www.docker.com/) | [Markdown](https://daringfireball.net/projects/markdown/)
 
+**webpack-django-template** [Repo](https://github.com/Aveline-art/webpack-django-template)
+
+A repository template that leverages Webpack to compile frontend code into Django templates and static files so that web frameworks can be used with a single Django backend server. This removes unncessary bloat when making a small-scale application with Django, which often requires starting multiple development servers. This also marries the frontend and backend so that the codebase is easier to manage for fullstack developers. Recommended for small projects.
+
+
+_Stack_: [Django](https://www.djangoproject.com/) | [Webpack](https://webpack.js.org/)
+
 **penrose-sweets** [Repo](https://github.com/Aveline-art/penrose-sweets)
 
 A command line tool that leverages url-based libraries to build weekly grocery lists for busy developers! The program intelligently parses ingredient lists from popular food blogs and compiles them into a single grocery list. It also leverages a JSON file to cache previously parsed recipes (memoization). My final project for Harvard's CS50x, penrose-sweets explored ways of leveraging Python's object-oriented design to simplify and organize complex code.
