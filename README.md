@@ -66,6 +66,12 @@ Inspired by Jira Align, freelance-giggles is an issue consolidation tool that al
 _Stack_: [GitHub Actions](https://github.com/features/actions) | [Typescript](https://www.typescriptlang.org/) | [GraphQL](https://graphql.org/) | [Jest](https://jestjs.io/)
 
 
+**github-spoints-counter** [Repo](https://github.com/100Automations/github-spoints-counter)
+
+Under construction
+
+_Stack_: [GitHub Actions](https://github.com/features/actions) | [Typescript](https://www.typescriptlang.org/) | [Preact](https://preactjs.com/) | [Webpack](https://webpack.js.org/) | [Jest](https://jestjs.io/)
+
 ## Get in Touch
 
 <p align="left">
