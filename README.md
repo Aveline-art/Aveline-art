@@ -29,7 +29,7 @@ Outside of software development work, I enjoy talking about the art of coding. T
 
 A content management system that uses a research-based filtering system to optimally match volunteer opportunity seekers to projects. Made with a team of skilled developers, project managers, UI designers, and UX researchers, this project is the crystallization of months of research and development. I have had the luxury of being the Technical Lead involved with developing its technical stack and architectural design.
 
-_Stack_: [Django](https://www.djangoproject.com/) | [Django Rest Framework](https://www.django-rest-framework.org/) | [React](https://reactjs.org/) | [Webpack](https://webpack.js.org/) | [Babel](https://babeljs.io/) | [PostgreSQL](https://www.postgresql.org/) | [Docker](https://www.docker.com/) | [GitHub Actions](https://github.com/features/actions)
+_Stack_: [Django](https://www.djangoproject.com/) | [Django Rest Framework](https://www.django-rest-framework.org/) | [React](https://reactjs.org/) | [Webpack](https://webpack.js.org/) | [Babel](https://babeljs.io/) | [PostgreSQL](https://www.postgresql.org/) | [Docker](https://www.docker.com/) | [GitHub Actions](https://github.com/features/actions) | [AWS](https://aws.amazon.com/)
 
 
 **CivicTechJobs-Documentation** [Site](https://hackforla.github.io/CivicTechJobs-Documentation/) | [Repo](https://github.com/hackforla/CivicTechJobs-Documentation)
